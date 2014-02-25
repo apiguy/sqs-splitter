@@ -1,0 +1,1 @@
+worker: python sqs_splitter.py

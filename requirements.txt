@@ -1,0 +1,4 @@
+args==0.1.0
+boto==2.25.0
+clint==0.3.4
+wsgiref==0.1.2
